@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x0e724Cf24EF7CAB8d414E6dc362c72Feb7b6aFbF",
-  "SCAN_LINK": "https://polygonscan.com/address/0x0e724Cf24EF7CAB8d414E6dc362c72Feb7b6aFbF",
+  "CONTRACT_ADDRESS": "0x88d3696eb2b80947Cc9db776bAf3905b25BDf2D8",
+  "SCAN_LINK": "https://polygonscan.com/address/0x88d3696eb2b80947Cc9db776bAf3905b25BDf2D8",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -8,9 +8,9 @@
   },
   "NFT_NAME": "PartyBear NFT",
   "SYMBOL": "PB",
-  "MAX_SUPPLY": 5000,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 1100000000000000000000,
+  "DISPLAY_COST": 1100,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/",
